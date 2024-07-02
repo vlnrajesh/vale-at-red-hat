@@ -4,3 +4,4 @@ This repository helps tech writers at Red Hat get up and running with Vale. It i
 
 * To start using Vale with the "Red Hat" style, see: link:https://redhat-documentation.github.io/vale-at-red-hat/docs/main/user-guide/introduction/[]
 * To contribute or communicate with the project team, see: link:https://redhat-documentation.github.io/vale-at-red-hat/docs/main/contributor-guide/contributing/[]
+StarthteBuile
